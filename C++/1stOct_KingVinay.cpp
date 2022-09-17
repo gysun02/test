@@ -17,6 +17,7 @@ using namespace std;
  int main()
  {
     int i, n;
+    int cyka;
     int First = 0, Second = 1;
     int Third = First + Second;
     cin >> n;
